@@ -102,6 +102,8 @@ class BatchCommand(models.Model):
     class Meta:
         verbose_name = _("Batch Command")
         verbose_name_plural = _("Batch Commands")
-        index_together = (
-            ('batch', 'index')
-        )
+        indexes = [
+            models.Index(fields=['batch', 'index']),
+        ]
+        
+    
