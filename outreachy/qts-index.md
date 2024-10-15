@@ -13,7 +13,7 @@
 ## Features
 
 ### Navigation Bar 
-The following are available on the navigation are:
+The following are available on the navigation bar:
 - **New Batch**: This enables new batch of statements in Wikimedia projects.
 - **Last Batches**: This enables viewing existing batches.
 - **Git**: This provides the users with access to the source code repository, should they want to contribute to the codebase of QuickStatements.
