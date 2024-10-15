@@ -1,6 +1,6 @@
-# QuickStatements 3.0 Home's Page
+# QuickStatements 3.0 Home Page
 
-**QuickStatements 3.0 Home's Page** allows for adding new batches, viewing batch details, and accessing batches submitted by users. It does this through simple set of text commands. 
+**QuickStatements 3.0 Home Page** allows for adding new batches, viewing batch details, and accessing batches submitted by users. It does this through simple set of text commands. 
 
 ## Table of Contents
 - [Features](#features)
@@ -19,7 +19,7 @@ The following are available on the navigation bar:
 - **Git**: This provides the users with access to the source code repository, should they want to contribute to the codebase of QuickStatements.
 
 ### Homepage Overview
-The following features are available on QuickStatements home page:
+The following features are available on QuickStatements's home page:
 - **New batch button**: This button allows a user to create a new set of batch statements.
 - **Batch ID Search**: This search feature enables a user to enter an ID to retrieve the details of a specific batch.
 - **Username Search**: This search feature makes access of batches by a particular user possible.
@@ -59,7 +59,7 @@ http://localhost:8765
 ```
 
 ### Environment Setup
-Place the `env` file in the `etc/env` directory, and set up your environment variables using `etc/env.SAMPLE` as a guide. 
+Place the `env` file in the `etc` directory, and set up your environment variables using `etc/env.SAMPLE` as a guide. 
 
 ## Usage
 
