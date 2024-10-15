@@ -1,6 +1,6 @@
 # QuickStatements 3.0 Home's Page
 
-**QuickStatements 3.0 Home's Page** allows for the editing of adding new batches, viewing batch details, and accessing batches submitted by users. It does this through simple set of text commands. 
+**QuickStatements 3.0 Home's Page** allows for adding new batches, viewing batch details, and accessing batches submitted by users. It does this through simple set of text commands. 
 
 ## Table of Contents
 - [Features](#features)
