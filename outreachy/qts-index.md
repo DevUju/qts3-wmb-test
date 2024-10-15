@@ -77,7 +77,7 @@ Place the `env` file in the `etc` directory, and set up your environment variabl
 2. Click "See batches by user" to access all batches created by the user or associated with the username.
 
 ### Logging In
-A user must log in to access the full functionality of QuikStatements, especially in relation to creating and managing batches.
+A user must log in to access the full functionality of QuickStatements, especially in relation to creating and managing batches.
 
 ## Makefile Commands
 The project also includes a Makefile which manages the following commands:
